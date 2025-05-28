@@ -1,16 +1,8 @@
 # quiz_app
 
-A new Flutter project.
+This app is a Flutter quiz, and in the final page shows the user's score.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Images of the project
+![image](https://github.com/user-attachments/assets/b626bc90-c78e-40cc-9f89-21c4aea17757)
+![image](https://github.com/user-attachments/assets/24fcbbfc-c111-40d7-9167-b2e0c5ddfe78)
+![image](https://github.com/user-attachments/assets/015f7370-ef80-4a5a-adc7-f2fe6df4b657)
